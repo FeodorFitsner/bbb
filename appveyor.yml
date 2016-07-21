@@ -1,0 +1,4 @@
+build_script:
+- echo %my_secure_var%
+
+test: off
